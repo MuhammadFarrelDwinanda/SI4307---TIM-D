@@ -1,3 +1,4 @@
 Farrel bikin Dashboard dan Login
 Tiara bikin detail pesanan
 Haikal bikin Landing Page
+Vivo bikin register
