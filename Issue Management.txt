@@ -1,4 +1,4 @@
-Farrel bikin Dashboard dan Login
+Farrel bikin Dashboard dan Login - SELESAI
 RJ bikin profile
 Tiara bikin detail pesanan
 Yusnia membuat Log Out
