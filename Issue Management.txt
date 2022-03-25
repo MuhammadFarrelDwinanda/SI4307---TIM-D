@@ -1,6 +1,6 @@
 Farrel bikin Dashboard dan Login - SELESAI
 RJ bikin profile
 Tiara bikin detail pesanan
-Yusnia membuat Log Out
+Yusnia membuat Log Out - SELESAI
 Haikal bikin Landing Page
 Vivo bikin register - SELESAI
