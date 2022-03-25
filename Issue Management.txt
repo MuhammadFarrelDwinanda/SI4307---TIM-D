@@ -1,4 +1,5 @@
 Farrel bikin Dashboard dan Login
+RJ bikin profile
 Tiara bikin detail pesanan
 Yusnia membuat Log Out
 Haikal bikin Landing Page
